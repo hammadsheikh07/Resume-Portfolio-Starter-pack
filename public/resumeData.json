@@ -4,33 +4,26 @@
     "occupation": "Developer",
     "description": "Nothing is on my horizon, except everything",
     "image": "profilepic.jpg",
-    "bio": "Hi I'm Hammad, I'm a MERN Stack and Blockchain Developer. ",
+    "bio": "Hi I'm Hammad, I'm a MERN Stack and Blockchain Developer. I've expertise in Both Frontend and Backend Development. I can help you make your Websites, or just your backend, local API's, Server side and client Side Interactions. I can write you smart contracts, deploy and test them on hardhat, integrate them with your Dapp using Etherjs. Or If you don't have a Dapp, Don't Worry, I can help you make one.",
     "contactmessage": "Get in touch with me to get my services",
     "email": "hammad.shahid.pk@gmail.com",
     "phone": "+92 302 7500394",
     "address": {
       "street": "P.1798 Street #15, Bazaar #03 Razabad",
       "city": "Faisalabad",
-      "state": "Pakistan",
-      "zip": "W3B D3V"
+      "state": "Pakistan"
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "resumedownload": "https://drive.google.com/uc?export=download&id=12rW5mVRT1qEbELTw39ZmXRcFA9Qfik_g",
     "social": [
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha",
+        "url": "https://www.linkedin.com/in/muhammad-hammad-shahid-b13a881b5/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "https://github.com/PapaReact",
+        "url": "https://github.com/hammadsheikh07",
         "className": "fa fa-github"
-      },
-      {
-        "name": "twitter",
-        "url": "https://www.instagram.com/ssssangha/",
-        "className": "fa fa-twitter"
       }
     ]
   },
@@ -55,7 +48,7 @@
         "company": "NetixSol",
         "title": "Blockchain Developer",
         "years": "January,2022 - March,2022",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "description": "I joined Netixsol as a Blockchain Developer, this was my kick-off as a Blockchain Developer, I worked there for 3 months, The Things I worked on: Introduction to Blockchain, crypto and NFT's Smart Contract Writing Standard Smart Contracts Writing Integration of Smart Contracts with My React App using ethers library, Dapp to Transfer Tokens, Check Balance using React Writing Test Cases of Smart Contracts using Hardhat."
       }
     ],
     "skills": [
@@ -65,7 +58,7 @@
       },
       {
         "name": "MERN Stack",
-        "level": "75%"
+        "level": "80%"
       },
       {
         "name": ".NET Core",
@@ -84,22 +77,22 @@
   "portfolio": {
     "projects": [
       {
-        "title": "Snapchat Clone (React JS)",
-        "category": "",
-        "image": "snapchat.jpg",
-        "url": "https://youtu.be/1kGISk5ft2w"
+        "title": "NFT Minting Website",
+        "category": "Blockchain Development",
+        "image": "NFT-minting.png",
+        "url": "https://nft-collection-mu-one.vercel.app/"
       },
       {
-        "title": "Gmail Clone (React JS)",
-        "category": "",
-        "image": "gmail.jpg",
-        "url": "https://youtu.be/b7nrXjS6Dqs"
+        "title": "Initial Coin Offering (ICO)",
+        "category": "Blockchain Development",
+        "image": "ICO.png",
+        "url": "https://ico-sophomore.vercel.app/"
       },
       {
-        "title": "LinkedIn Clone (React JS)",
-        "category": "",
-        "image": "linkedin.jpg",
-        "url": "https://youtu.be/QaYts9sPmcY"
+        "title": "Whitelisting Website for Upcoming NFT Drop",
+        "category": "Blockchain Development",
+        "image": "Whitelist.png",
+        "url": "https://whitelist-dapp-somophore.vercel.app/"
       }
     ]
   }
