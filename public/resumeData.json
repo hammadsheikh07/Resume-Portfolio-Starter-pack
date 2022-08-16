@@ -42,7 +42,7 @@
         "company": "WeTeck",
         "title": "NextJs Developer",
         "years": "July,2022 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "description": "Working on NEXT Js Framework."
       },
       {
         "company": "NetixSol",
@@ -93,6 +93,12 @@
         "category": "Blockchain Development",
         "image": "Whitelist.png",
         "url": "https://whitelist-dapp-somophore.vercel.app/"
+      },
+      {
+        "title": "Todo List",
+        "category": "React MUI",
+        "image": "todolist.png",
+        "url": "https://todo-list-iota-ten.vercel.app/"
       }
     ]
   }
