@@ -39,9 +39,15 @@
     ],
     "work": [
       {
+        "company": "Nethermind",
+        "title": "Blockchain Developer",
+        "years": "October,2022 - January,2023",
+        "description": " Working in a remote environment helped me learn the work norms and how to manage work in flexible hours. Working as a blockchain developer internee, I worked in Vesting Contracts Defi's Web 2.0 and 3.0 integrations. It was a great experience to interact with so many people, helping me to think out of the box and to learn from the best."
+      },
+      {
         "company": "WeTeck",
         "title": "NextJs Developer",
-        "years": "July,2022 - Present",
+        "years": "July,2022 - August,2022",
         "description": "Working on NEXT Js Framework."
       },
       {
@@ -53,12 +59,16 @@
     ],
     "skills": [
       {
-        "name": "Blockchain",
+        "name": "Solidity",
         "level": "80%"
       },
       {
         "name": "MERN Stack",
-        "level": "80%"
+        "level": "90%"
+      },
+      {
+        "name": "Next Js",
+        "level": "90%"
       },
       {
         "name": ".NET Core",
@@ -67,10 +77,6 @@
       {
         "name": "C++/C",
         "level": "99%"
-      },
-      {
-        "name": "Javascript",
-        "level": "90%"
       }
     ]
   },
