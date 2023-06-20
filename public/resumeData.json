@@ -39,6 +39,12 @@
     ],
     "work": [
       {
+        "company": "DevClub",
+        "title": "Associate Software Engineer",
+        "years": "Januray,2023 - Present",
+        "description": "I am developing Web apps using MERN Stack, from scratch or build in themes.  Most of my work is in frontend development with React Js and Next Js using MUI, Bootstrap and tailwind, also integration of frontend With backend is also done by me. Before integration, All the unit testing of API’s and frontend using jest is done by me. I am Part of daily scrums for regular updation and coordination between team, use of Jira for tasks, work divisions and to use Agile development process"
+      },
+      {
         "company": "Nethermind",
         "title": "Blockchain Developer",
         "years": "October,2022 - January,2023",
@@ -48,7 +54,7 @@
         "company": "WeTeck",
         "title": "NextJs Developer",
         "years": "July,2022 - August,2022",
-        "description": "Working on NEXT Js Framework."
+        "description": "Started from basic Web development, to React Js, and then switched to Next Js. Learned server side rendering, routings, props, in Next js and helped the respective company in ongoing client projects. "
       },
       {
         "company": "NetixSol",
@@ -58,10 +64,6 @@
       }
     ],
     "skills": [
-      {
-        "name": "Solidity",
-        "level": "80%"
-      },
       {
         "name": "MERN Stack",
         "level": "90%"
@@ -77,6 +79,10 @@
       {
         "name": "C++/C",
         "level": "99%"
+      },
+      {
+        "name": "Solidity",
+        "level": "80%"
       }
     ]
   },
