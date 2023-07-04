@@ -33,8 +33,8 @@
       {
         "school": "FAST National University of Computer and Emerging Sciences",
         "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "Present",
-        "description": "Will be graduating in year 2023"
+        "graduated": "2019-2023",
+        "description": "Graduated in Computer Science"
       }
     ],
     "work": [
@@ -69,6 +69,10 @@
         "level": "90%"
       },
       {
+        "name": "Solidity",
+        "level": "80%"
+      },
+      {
         "name": "Next Js",
         "level": "90%"
       },
@@ -79,10 +83,6 @@
       {
         "name": "C++/C",
         "level": "99%"
-      },
-      {
-        "name": "Solidity",
-        "level": "80%"
       }
     ]
   },
@@ -105,6 +105,18 @@
         "category": "Blockchain Development",
         "image": "Whitelist.png",
         "url": "https://whitelist-dapp-somophore.vercel.app/"
+      },
+      {
+        "title": "ZHHU ICO",
+        "category": "Blockchain Development",
+        "image": "zhhu.png",
+        "url": "https://zhhu-ico.vercel.app/"
+      },
+      {
+        "title": "Artrypto",
+        "category": "Blockchain Development",
+        "image": "artrypto.png",
+        "url": "https://artrypto-hammadsheikh07.vercel.app/"
       },
       {
         "title": "Todo List",
